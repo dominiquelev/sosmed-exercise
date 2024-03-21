@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Budi Anggur",
+      "email": "budi@gmail.com",
+      "isVerify": true
+    },
+    {
+      "name": "joko bapakmu",
+      "email": "joko@gmail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "Heru BRandlaz",
+      "email": "heru@gmail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 3
+    },
+    {
+      "name": "miki",
+      "email": "miki@gmail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 4
+    }
+  ]
+}
